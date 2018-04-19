@@ -61,9 +61,8 @@ module.exports = function(req,res){
 ![](./static/img/01.jpeg)
 ### 2.点击温馨提示位置的生成授权码【用此码代替密码配置】
 
-### 3.打开qq安全中心，将页面上的页面上的动态码输入第二部的窗口，生成一个字符串密码
-![](./static/img/02.jpg)
-### 4.将步骤三生成的密码配置进./config/email.js 的email.pass下
+
+### 3.将步骤二生成的密码配置进./config/email.js 的email.pass下
 
 
 
