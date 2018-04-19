@@ -2,7 +2,7 @@
 nodejs实现发送邮件的功能
 ## 下载项目
 ```
-git clone https://github.com/zhaoxuhui1122/sendMail.git
+git clone https://github.com/hzq916/nodeSendMail.git
 ```
 ## 执行安装
 ```
